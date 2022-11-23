@@ -12,20 +12,9 @@ in both classical regime and high dimensional regime.
 
 ## Some Results
 
-+ Effect of forgetting factor 
-
-![forgetting_factor](https://user-images.githubusercontent.com/26319211/203632710-fbb526f8-f29f-419f-8f32-a8657d785e90.jpg)
-
-
-+ Effect of the noise level
-
-![noise](https://user-images.githubusercontent.com/26319211/203632720-bbabf113-57c3-4c91-98cc-bcab35f5706b.jpg)
-
-
 + OPIT vs the state-of-the-art subspace tracking
 
-![compare](https://user-images.githubusercontent.com/26319211/203632404-5a36787d-54fb-42ea-9ceb-57250eab1102.jpg)
-
+![compare](https://user-images.githubusercontent.com/26319211/203633980-0870621d-9cf0-4166-8838-442c4dfad109.jpg)
 
 ## Reference
 
