@@ -20,4 +20,4 @@ in both classical regime and high dimensional regime.
 
 This code is free and open source for research purposes. If you use this code, please acknowledge the following paper.
 
-[1] L.T. Thanh, K. Abed-Meraim, N.L. Trung, A. Hafiance. "[*Sparse Subspace Tracking in High Dimensions*](https://ieeexplore.ieee.org/document/9746546)". **Proc. 46th IEEE ICASSP**, 2022. [[PDF](https://thanhtbt.github.io/files/2022_ICASSP%20-%20Sparse%20Subspace%20Tracking%20in%20High%20Dimensions.pdf)].
+[1] L.T. Thanh, K. Abed-Meraim, N.L. Trung, A. Hafiance. "[*Sparse Subspace Tracking in High Dimensions*](https://ieeexplore.ieee.org/document/9746546)". **Proc. 47th IEEE ICASSP**, 2022. [[PDF](https://thanhtbt.github.io/files/2022_ICASSP%20-%20Sparse%20Subspace%20Tracking%20in%20High%20Dimensions.pdf)].
