@@ -10,9 +10,10 @@ in both classical regime and high dimensional regime.
 ## Demo
 + Run demo_xyz.m for synthetic data
 
-## Some Results
 
-+ OPIT vs the state-of-the-art subspace tracking
+## Experimental Results
+
++ OPIT vs The State-of-the-art Subspace Tracking Algorithms 
 
 ![compare](https://user-images.githubusercontent.com/26319211/203633980-0870621d-9cf0-4166-8838-442c4dfad109.jpg)
 
