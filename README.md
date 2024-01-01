@@ -27,15 +27,16 @@ in both classical regime and high dimensional regime.
 
   ![SST_Sparse](https://github.com/thanhtbt/SST/assets/26319211/108f3b0f-6648-4fb6-bfed-bebd39c75bc3)
 
-
-+ OPIT vs The State-of-the-art Subspace Tracking Algorithms
++ OPIT vs SOTA Algorithms in High Dimension
   
 ![SST_Compare](https://github.com/thanhtbt/SST/assets/26319211/da5edddd-b9c7-4695-bf6c-820ba4264252)
 
++ Performance of SST algorithms with different data dimensions and sample sizes
 
-
+![SST_Compare_v2](https://github.com/thanhtbt/SST/assets/26319211/5fcc2299-b0ca-414a-9e71-5ea5a25f1aa6)
 
 ## Reference
+
 
 This code is free and open source for research purposes. If you use this code, please acknowledge the following paper.
 
