@@ -11,13 +11,14 @@ in both classical regime and high dimensional regime.
 + Run demo_xyz.m for synthetic data
 
 ## State-of-the-art algorithms for comparison
-+ **OPAST**:  K. Abed-Meraim et al. “[*Fast orthonormal PAST algorithm*](https://ieeexplore.ieee.org/abstract/document/823526/)”. **IEEE Signal Processing Letters**, 2000.
-+ **L1-PAST**: X. Yang et al. “[*Fast STAP method based on PAST with sparse constraint for airborne phased array radar*](https://ieeexplore.ieee.org/abstract/document/7470515/)”. **IEEE Trans. Signal Process.**, 2016.
+
 + **LORAF**:  P. Strobach, “[*Low-rank adaptive filters*](https://ieeexplore.ieee.org/abstract/document/553469/)”. **IEEE Trans. Signal Process.**, 1996.
++ **OPAST**:  K. Abed-Meraim et al. “[*Fast orthonormal PAST algorithm*](https://ieeexplore.ieee.org/abstract/document/823526/)”. **IEEE Signal Processing Letters**, 2000.
 + **FAPI**: R. Badeau et al. “[*Fast approximated power iteration subspace tracking*](https://ieeexplore.ieee.org/abstract/document/1468483/)”. **IEEE Trans. Signal Process.**, 2015.
-+ **SSFAPI**: N. Lassami et a. “[Low cost sparse subspace tracking algorithms](https://www.sciencedirect.com/science/article/pii/S0165168420300657)”. **Signal Process.**, 2020.
 + **GFAPI**: M. Arjomandi-Lari et al. “[*Generalized YAST algorithm for signal subspace tracking*](https://www.sciencedirect.com/science/article/pii/S0165168415001607)”. **Signal Process.**, 2015.
 + **SSPCA**: W. Yang and H. Xu, “[*Streaming sparse principal component analysis*](https://proceedings.mlr.press/v37/yangd15.html)”. **Proc. ICML**, 2015.
++ **L1-PAST**: X. Yang et al. “[*Fast STAP method based on PAST with sparse constraint for airborne phased array radar*](https://ieeexplore.ieee.org/abstract/document/7470515/)”. **IEEE Trans. Signal Process.**, 2016.
++ **SSFAPI**: N. Lassami et a. “[Low cost sparse subspace tracking algorithms](https://www.sciencedirect.com/science/article/pii/S0165168420300657)”. **Signal Process.**, 2020.
 + **PETRELS-ADMM**: L.T. Thanh et al. "[*Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee*](https://ieeexplore.ieee.org/document/9381678)". **IEEE Trans. Signal Process.**, 2021.
 
 
