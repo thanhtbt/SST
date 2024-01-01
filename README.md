@@ -17,7 +17,7 @@ in both classical regime and high dimensional regime.
 + **FAPI**: R. Badeau et al. “[*Fast approximated power iteration subspace tracking*](https://ieeexplore.ieee.org/abstract/document/1468483/)”. **IEEE Trans. Signal Process.**, 2015.
 + **SSFAPI**: N. Lassami et a. “[Low cost sparse subspace tracking algorithms](https://www.sciencedirect.com/science/article/pii/S0165168420300657)”. **Signal Process.**, 2020.
 + **GFAPI**: M. Arjomandi-Lari et al. “[*Generalized YAST algorithm for signal subspace tracking*](https://www.sciencedirect.com/science/article/pii/S0165168415001607)”. **Signal Process.**, 2015.
-+ **SSPCA**: W. Yang and H. Xu, “[Streaming sparse principal component analysis]()”. **Proc. ICML**, 2015.
++ **SSPCA**: W. Yang and H. Xu, “[*Streaming sparse principal component analysis*](https://proceedings.mlr.press/v37/yangd15.html)”. **Proc. ICML**, 2015.
 + **PETRELS-ADMM**: L.T. Thanh et al. "[*Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee*](https://ieeexplore.ieee.org/document/9381678)". **IEEE Trans. Signal Process.**, 2021.
 
 
