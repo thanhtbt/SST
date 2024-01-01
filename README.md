@@ -6,11 +6,11 @@ in both classical and high dimensional regimes.
 
 ## Demo
 Run 
-+ "demo_effect_forgetting_factor.m": To illustrate the effect of the forgetting factor on the performance of OPIT
-+ "demo_noise_effect.m": To illustrate the effect of noise on the performance of OPIT
-+ "demo_nonstationary.m": To illustrate the performance of OPIT in nonstationary environments
-+ "demo_low_dimension_comparison.m": To illustrate the performance of subspace tracking algorithms in the classical setting 
-+ "demo_high_dimension_comparison.m": To illustrate the performance of subspace tracking algorithms in high dimension
++ `demo_effect_forgetting_factor.m`: To illustrate the effect of the forgetting factor on the performance of OPIT
++ `demo_noise_effect.m`: To illustrate the effect of noise on the performance of OPIT
++ `demo_nonstationary.m`: To illustrate the performance of OPIT in nonstationary environments
++ `demo_low_dimension_comparison.m`: To illustrate the performance of subspace tracking algorithms in the classical setting 
++ `demo_high_dimension_comparison.m`: To illustrate the performance of subspace tracking algorithms in high dimension
 
 
 ## State-of-the-art algorithms for comparison
