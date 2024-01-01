@@ -42,4 +42,4 @@ This code is free and open source for research purposes. If you use this code, p
 
 [1] L.T. Thanh, K. Abed-Meraim, N.L. Trung, A. Hafiance. "[*Sparse Subspace Tracking in High Dimensions*](https://ieeexplore.ieee.org/document/9746546)". **Proc. 47th IEEE ICASSP**, 2022. [[PDF](https://thanhtbt.github.io/files/2022_ICASSP%20-%20Sparse%20Subspace%20Tracking%20in%20High%20Dimensions.pdf)].
 
-[2] L.T. Thanh, K. Abed-Meraim, N. L. Trung, & A. Hafiane. "[*OPIT: A Simple and Effective Method for Sparse Subspace Tracking in High-dimension and Low-sample-size Context*](https://ieeexplore.ieee.org/document/xxx)". To appear in **IEEE Trans. Signal Process.**, 2024. 
+[2] L.T. Thanh, K. Abed-Meraim, N. L. Trung, & A. Hafiane. "[*OPIT: A Simple and Effective Method for Sparse Subspace Tracking in High-dimension and Low-sample-size Context*](https://doi.org/10.1109/TSP.2023.3349070)". To appear in **IEEE Trans. Signal Process.**, 2024. 
